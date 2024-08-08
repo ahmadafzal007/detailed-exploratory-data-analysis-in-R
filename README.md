@@ -12,7 +12,6 @@ Exploratory Data Analysis (EDA) is a crucial step in the data analysis process, 
 
 ## 📁 Project Structure
 
-- **`data/`**: Contains the three datasets used for analysis.
 - **`scripts/`**: R scripts for performing EDA.
 - **`report/`**: Detailed EDA report in PDF format.
 
